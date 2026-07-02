@@ -91,6 +91,8 @@ Renamed the server to DC01 and restarted it to ensure the hostname was applied.
 ## Screenshots
 
 - Server Manager dashboard
+- <img width="1022" height="767" alt="Server_Manager" src="https://github.com/user-attachments/assets/cfb880cb-9771-4116-8584-18eebbdcab64" />
+
 - Local Server page
 - Network adapter IPv4 settings
 - Remote Desktop enabled
